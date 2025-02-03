@@ -31,3 +31,11 @@ Lado<-3
 Altura<-266
 Arearectangulo<- Lado*Altura
 ```
+#Area del trapecio
+
+```{r}
+B <- 8
+b <- 5
+H <- 4
+
+Areatrapecio <- ((B + b) * H) / 2
