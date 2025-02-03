@@ -24,3 +24,10 @@ Lado<-3
 Altura<-2
 AreaTriangulo<- (Lado*Altura)/2
 ```
+#Área del rectángulo
+
+```{r}
+Lado<-3
+Altura<-266
+Arearectangulo<- Lado*Altura
+```
